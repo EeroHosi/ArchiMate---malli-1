@@ -1,4 +1,9 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Asiakaspalvelija (Business Role)"
-    id="_e224a124-90ae-4155-8022-1e7e03219f2b"/>
+    name="Asiakaspalvelija"
+    id="_e224a124-90ae-4155-8022-1e7e03219f2b"
+    documentation="Asiakaspalvelija (Business Role)">
+  <properties
+      key="stereotype"
+      value="Business Role"/>
+</archimate:BusinessRole>

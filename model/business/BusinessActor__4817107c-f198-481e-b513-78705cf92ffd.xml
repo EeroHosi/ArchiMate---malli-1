@@ -1,4 +1,9 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Toimija A (Business Actor)"
-    id="_4817107c-f198-481e-b513-78705cf92ffd"/>
+    name="Toimija A"
+    id="_4817107c-f198-481e-b513-78705cf92ffd"
+    documentation="Toimija A (Business Actor)">
+  <properties
+      key="stereotype"
+      value="Business Actor"/>
+</archimate:BusinessActor>

@@ -10,7 +10,7 @@
       textPosition="1">
     <features
         name="labelExpression"
-        value="Toimija A &#xA;(Business Actor)"/>
+        value="${name}&#xA;(${property:stereotype})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="_04a1d957-c8bd-4a26-8df5-e10683ecda22"
@@ -39,7 +39,7 @@
       textPosition="1">
     <features
         name="labelExpression"
-        value="Asiakas &#xA;(Business Role)"/>
+        value="${name}&#xA;(${property:stereotype})"/>
     <bounds
         x="264"
         y="48"
@@ -56,7 +56,7 @@
       textPosition="1">
     <features
         name="labelExpression"
-        value="Toimija B &#xA;(Business Actor)"/>
+        value="${name}&#xA;(${property:stereotype})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="_6e2469e9-eeca-42b0-8322-43e8eff06271"
@@ -83,6 +83,9 @@
       targetConnections="_6e2469e9-eeca-42b0-8322-43e8eff06271"
       font="1|Lucida Grande|9.0|0|COCOA|1|LucidaGrande"
       textPosition="1">
+    <features
+        name="labelExpression"
+        value="${name}&#xA;(${property:stereotype})"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="_081fd679-688f-43a5-a3f0-a7ff8de893c7"

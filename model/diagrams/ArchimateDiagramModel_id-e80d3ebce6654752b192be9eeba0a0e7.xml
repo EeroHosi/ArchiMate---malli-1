@@ -1,0 +1,23 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TEST VIEW"
+    id="id-e80d3ebce6654752b192be9eeba0a0e7">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-96b7fb41dc8e49168a20aae5e424c90c"
+      lineColor="#5c5c5c"
+      fillColor="#ffffb5">
+    <features
+        name="gradient"
+        value="0"/>
+    <bounds
+        x="417"
+        y="355"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-eb4967d1154d4f2ca742335a0d764d67.xml#id-eb4967d1154d4f2ca742335a0d764d67"/>
+  </children>
+</archimate:ArchimateDiagramModel>
