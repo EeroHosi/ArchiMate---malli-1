@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sovellus A"
+    id="_08af0e6d-460d-4378-a000-a08077327e6d"
+    documentation="Documentation...">
+  <properties
+      key="property1"
+      value="value1"/>
+  <properties
+      key="specialization"
+      value="Järjestelmä"/>
+  <properties
+      key="stereotype"
+      value="Application Component"/>
+</archimate:ApplicationComponent>

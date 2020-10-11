@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prosessi A (Business Process)"
+    id="_75e7a13d-0c56-4131-9de7-1af1c1e8c06f">
+  <properties
+      key="owner"
+      value="eero.hosiaisluoma"/>
+  <properties
+      key="version"
+      value="1.1"/>
+  <properties
+      key="dateTime"
+      value="2020-05-29 11:10"/>
+</archimate:BusinessProcess>
