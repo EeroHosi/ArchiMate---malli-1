@@ -1,4 +1,9 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Alusta A (Node)"
-    id="_5194ce16-a988-4465-911b-8680f731239f"/>
+    name="Alusta A"
+    id="_5194ce16-a988-4465-911b-8680f731239f"
+    documentation="Alusta A (Node)">
+  <properties
+      key="stereotype"
+      value="Node"/>
+</archimate:Node>

@@ -1,5 +1,9 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vaihe3 (Business Process)"
+    name="Vaihe3"
     id="_cf00af29-deb4-43aa-9c1d-c86809477d77"
-    documentation="Customer Journey (Business Process)"/>
+    documentation="Customer Journey (Business Process)">
+  <properties
+      key="stereotype"
+      value="Business Process"/>
+</archimate:BusinessProcess>

@@ -1,4 +1,9 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sovelluspalvelu A-1 (Application Service)"
-    id="_52773f81-61d5-40ce-b040-8f4556d34a09"/>
+    name="Sovelluspalvelu A-1"
+    id="_52773f81-61d5-40ce-b040-8f4556d34a09"
+    documentation="Sovelluspalvelu A-1 (Application Service)">
+  <properties
+      key="stereotype"
+      value="Application Service"/>
+</archimate:ApplicationService>

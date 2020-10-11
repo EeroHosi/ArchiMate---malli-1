@@ -1,4 +1,9 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Alustapalvelu B (Technology Service)"
-    id="_ddec4d5f-07a7-4ab0-aa92-672c025b1398"/>
+    name="Alustapalvelu B"
+    id="_ddec4d5f-07a7-4ab0-aa92-672c025b1398"
+    documentation="Alustapalvelu B (Technology Service)">
+  <properties
+      key="stereotype"
+      value="Technology Service"/>
+</archimate:TechnologyService>
